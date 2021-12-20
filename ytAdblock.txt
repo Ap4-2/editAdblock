@@ -1,4 +1,4 @@
-redirector.googlevideo.com
-rr1---sn-cnoa-gq2e.googlevideo.com
-rr2.sn-cnoa-gq2e.googlevideo.com
+https://redirector.googlevideo.com
+https://rr1---sn-cnoa-gq2e.googlevideo.com
+https://rr2.sn-cnoa-gq2e.googlevideo.com
 
